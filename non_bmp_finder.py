@@ -1,5 +1,5 @@
 # Identify filenames with characters outside the Basic Multilingual Plane.
-# Tested on a Windows 2008 host using python 3.4. until 3.8.1, Python 2.7 does not work.
+# Tested on a Windows 2008 - 2016 host using python 3.4. until 3.8.1, Python 2.7 does not work.
 
 import os
 import os.path
